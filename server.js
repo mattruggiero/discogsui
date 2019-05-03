@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-//const API = require('./config/keys').API_KEY;
+const API = require('./config/keys').API_KEY;
 const API_KEY = process.env.API_KEY || API;
 const Discogs = require('disconnect').Client;
 const cors = require('cors');
