@@ -1,0 +1,28 @@
+.thumbnail{
+  width: 150px;
+  height: 150px;
+}
+
+.list_text_master{
+  float:right;
+}
+.jumbotron{
+  text-align: center;
+}
+
+.main{
+  margin-bottom: 5em;
+  margin-top: 5em;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+.jumbotron{
+  margin-top:2em;
+}
+
+form{
+  margin-bottom: 2em;
+}
