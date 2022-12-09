@@ -8,7 +8,7 @@
     "cors": "^2.8.5",
     "discogs": "^0.4.4",
     "disconnect": "^1.2.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-router": "0.0.1",
     "mongoose": "^5.4.13",
     "nodemon": "^1.18.10"
